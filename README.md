@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yeshwanth-kr
+- 👋 Hi, I’m @Yeshwanth krishna
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Python
 
