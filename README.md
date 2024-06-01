@@ -1,1 +1,1 @@
-👋 Hi, I’m @Yeshwanth krishna
+👋 Hi, I’m Yeshwanth krishna
