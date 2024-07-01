@@ -33,5 +33,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Yeshwanth-kr&show_icons=true&locale=en&theme=tokyonight" alt="Yeshwanth Krishna" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yeshwanth-kr&&theme=tokyonight" alt="Yeshwanth Krishna" /></p>
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yeshwanth-kr&&theme=tokyonight" alt="Yeshwanth Krishna" /></p>-->
 
