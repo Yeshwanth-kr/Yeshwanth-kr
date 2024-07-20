@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **MEARN**
 
-- Check my <a href="https://www.yeshwanth-kr.github.io" target="_blank">Portfolio</a>.
+- Check my <a href="yeshwanth-kr.github.io" target="_blank">Portfolio</a>.
 
 - 📫 How to reach me **YeshwanthKrishna37@gmail.com**
 
