@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **MEARN**
+- 💬 Ask me about **MERN**
 
 - :globe_with_meridians: Check my <a href="https://yeshwanth-kr.github.io" target="_blank">Portfolio</a>.
 
