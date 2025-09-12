@@ -19,7 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<!--
 <a href="https://linkedin.com/in/Yeshwanth-Krishna" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Yeshweanth_Krishna(Linkedin)" height="30" width="40" /></a>
+-->
 <a href="https://instagram.com/Yeshwanth__kr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Yeshwanth Krishna(Instagram)" height="30" width="40" /></a>
 <a href="https://twitter.com/Yeshwanth__Kr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Yeshwanth Krishna(Twitter)" height="30" width="40" /></a>
 </p>
