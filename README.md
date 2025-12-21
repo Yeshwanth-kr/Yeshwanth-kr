@@ -15,10 +15,10 @@ Software Developer at **NSRY, SVP** with a track record of building scalable, hi
 
 ### 🏆 Featured Engineering Projects
 * **[AI-ATS Engine](https://github.com/Yeshwanth-kr/ai-ats-engine)**: Full-stack AI matcher with >90% semantic accuracy using Gemini 2.0 Flash.
-* **[Realtime-Collab-Platform](https://github.com/Yeshwanth-kr/shared-wishlist)**: Real-time synchronization platform with <100ms latency via Socket.IO.
-* **[Pathfinding-Visualizer-PWA](https://github.com/Yeshwanth-kr/visual-search)**: Optimized PWA visualizing 7+ search algorithms; reduced page load by 35%.
+* **[Realtime-Collab-Platform](https://github.com/Yeshwanth-kr/realtime-collab-platform)**: Real-time synchronization platform with <100ms latency via Socket.IO.
+* **[Pathfinding-Visualizer-PWA](https://github.com/Yeshwanth-kr/pathfinding-visualizer-pwa)**: Optimized PWA visualizing 7+ search algorithms; reduced page load by 35%.
 
 ### 📫 Professional Links
-- **LinkedIn**: [linkedin.com/in/yeshwanth-kr](https://linkedin.com/in/yeshwanth-kr)
 - **Portfolio**: [yeshwanth.online](https://yeshwanth.online)
+- **LinkedIn**: [linkedin.com/in/yeshwanth-kr](https://linkedin.com/in/yeshwanth-kr)
 - **Stack Overflow**: [stackoverflow.com/users/23272477/yeshwanth-krishna](https://stackoverflow.com/users/23272477/yeshwanth-krishna)
