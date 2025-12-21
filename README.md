@@ -1,33 +1,24 @@
-<!--Hi, I am Yeshwanth-->
+# Software Development Engineer | Full-Stack & AI Systems
 
-<h1 align="center">Hi 👋, I'm Yeshwanth Krishna</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="/gif.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Yeshwanth-kr&label=Profile%20views&color=0e75b6&style=flat" alt="Yeshwanth-kr" /> </p>
+### 🚀 Professional Summary
+Software Developer at **NSRY, SVP** with a track record of building scalable, high-availability web applications. I specialize in the MERN stack and AI integration, with a focus on optimizing backend performance and delivering user-centric solutions.
 
-- 🔭 I’m currently **open to work**
+- 🛠️ **Current Focus**: Architecting AI-driven tools (Gemini 2.0) and real-time collaboration systems.
+- 📉 **Impact**: Reduced backend 400-series errors by **30%** during my Node.js internship.
+- 🏗️ **Standards**: Achieved 100% Lighthouse accessibility scores and <1s load times in production-grade builds.
 
-- 🌱 I’m currently learning **DevOps**
+### 💻 Technical Expertise
+- **Languages**: JavaScript (ES6+), TypeScript, Java, C++, Python.
+- **Frontend**: React.js, Next.js, Vite, Tailwind CSS, Angular.
+- **Backend**: Node.js, Express.js, Socket.IO.
+- **Databases/Cloud**: MongoDB, PostgreSQL, MySQL, Supabase, AWS, Docker.
 
-- 💬 Ask me about **MERN**
+### 🏆 Featured Engineering Projects
+* **[AI-ATS Engine](https://github.com/Yeshwanth-kr/ai-ats-engine)**: Full-stack AI matcher with >90% semantic accuracy using Gemini 2.0 Flash.
+* **[Realtime-Collab-Platform](https://github.com/Yeshwanth-kr/shared-wishlist)**: Real-time synchronization platform with <100ms latency via Socket.IO.
+* **[Pathfinding-Visualizer-PWA](https://github.com/Yeshwanth-kr/visual-search)**: Optimized PWA visualizing 7+ search algorithms; reduced page load by 35%.
 
-- :globe_with_meridians: Check my <a href="https://yeshwanth-kr.github.io" target="_blank">Portfolio</a>.
-
-- 📫 How to reach me **YeshwanthKrishna37@gmail.com**
-
-- ⚡ Fun fact **I am Funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/Yeshwanth-Kr" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Yeshweanth_Krishna(Linkedin)" height="30" width="40" /></a>
-<a href="https://instagram.com/Yeshwanth__kr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Yeshwanth Krishna(Instagram)" height="30" width="40" /></a>
-<a href="https://twitter.com/Yeshwanth__Kr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Yeshwanth Krishna(Twitter)" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=js,py,java,c,cpp,html,css,tailwind,react,vite,nextjs,nodejs,npm,express,django,mongodb,vercel,netlify,git,docker,androidstudio,aws,figma,flask,firebase,flutter,github,githubactions,gitlab,jenkins,jest,kotlin,linux,mysql,nginx,postgres,postman,ts,windows&perline=20" />
-</p> 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yeshwanth-kr&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Yeshwanth Krishna" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Yeshwanth-kr&show_icons=true&locale=en&theme=tokyonight" alt="Yeshwanth Krishna" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yeshwanth-kr&&theme=tokyonight" alt="Yeshwanth Krishna" /></p>
+### 📫 Professional Links
+- **LinkedIn**: [linkedin.com/in/yeshwanth-kr](https://linkedin.com/in/yeshwanth-kr)
+- **Portfolio**: [yeshwanth.online](https://yeshwanth.online)
+- **Stack Overflow**: [stackoverflow.com/users/23272477/yeshwanth-krishna](https://stackoverflow.com/users/23272477/yeshwanth-krishna)
