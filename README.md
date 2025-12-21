@@ -1,7 +1,7 @@
 # Software Development Engineer | Full-Stack & AI Systems
 
 ### 🚀 Professional Summary
-Software Developer at **NSRY, SVP** with a track record of building scalable, high-availability web applications. I specialize in the MERN stack and AI integration, with a focus on optimizing backend performance and delivering user-centric solutions.
+Software Developer with a track record of building scalable, high-availability web applications. I specialize in the MERN stack and AI integration, with a focus on optimizing backend performance and delivering user-centric solutions.
 
 - 🛠️ **Current Focus**: Architecting AI-driven tools (Gemini 2.0) and real-time collaboration systems.
 - 📉 **Impact**: Reduced backend 400-series errors by **30%** during my Node.js internship.
