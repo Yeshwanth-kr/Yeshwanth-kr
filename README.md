@@ -12,6 +12,7 @@ Software Developer with a track record of building scalable, high-availability w
 - **Frontend**: React.js, Next.js, Vite, Tailwind CSS, Angular.
 - **Backend**: Node.js, Express.js, Socket.IO.
 - **Databases/Cloud**: MongoDB, PostgreSQL, MySQL, Supabase, AWS, Docker.
+- **Networking**: Cisco, Nivetti, Tejas Switches; TCP/IP, VLAN, Routing/Switching, Fiber \& Copper Cabling
 
 ### 🏆 Featured Engineering Projects
 * **[ScratchPad](https://github.com/Yeshwanth-kr/scratchpad)**: A functionality-first Excalidraw clone. Built with Rough.js, and implementing a robust TypeScript-based element model. Zero bloat, focused entirely on the rendering engine logic.
